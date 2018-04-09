@@ -1,0 +1,3 @@
+# OWASP-ZSC-update-repaired
+
+The update options doesnt work so i patch it...
